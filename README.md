@@ -58,7 +58,7 @@ Documente os prompts que definem o comportamento do seu agente:
 
 ---
 
-### 4. Aplicação Funcional
+### 4. Aplicação Funcional (Ainda será feito e anexado aqui)
 
 Desenvolva um **protótipo funcional** do seu agente:
 
@@ -83,7 +83,7 @@ Descreva como você avalia a qualidade do seu agente:
 
 ---
 
-### 6. Pitch
+### 6. Pitch (Ainda será feito e anexado aqui)
 
 Grave um **pitch de 3 minutos** (estilo elevador) apresentando:
 
